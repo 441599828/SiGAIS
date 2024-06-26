@@ -11,3 +11,5 @@ Available for public after this article is published.
  **Panoptic-Deeplab**          | 30.3           | 51.0 / 80.5 | 77.6 / 93.6    | 41.8 / 81.3   | 37.7 / 65.4    | 46.8 / 81.5    
  **Ours**                      | 38.5           | **69.3** / **85.5** | **88.8** / **95.2**    | **66.1** / **87.9**   | **55.0** / **73.0**    | **67.2** / **85.7**   
 
+ropeins dataset: https://pan.baidu.com/s/1_g7oxIiVD4UAYyHVBtT9-Q?pwd=dwzv passcode: dwzv
+trained model: https://pan.baidu.com/s/1Nx0jHZ-4ceDrWY4_q5aHIQ?pwd=ahn1 passcode: ahn1
