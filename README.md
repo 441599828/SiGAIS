@@ -1,4 +1,3 @@
- SiGAS
 The code for IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS(2024) paper "Si-GAIS: Siamese Generalizable-Attention Instance Segmentation for Intersection Perception System" and RopeIns Dataset.
 
 
@@ -17,6 +16,7 @@ The code for IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS(2024) paper
 ropeins dataset: https://pan.baidu.com/s/1_g7oxIiVD4UAYyHVBtT9-Q?pwd=dwzv
 
 trained model: https://pan.baidu.com/s/1Nx0jHZ-4ceDrWY4_q5aHIQ?pwd=ahn1
+
 If you find our work helpful for your research, please consider citing the following BibTeX entry.
 
 ```BibTeX
