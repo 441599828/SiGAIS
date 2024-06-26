@@ -1,6 +1,6 @@
 # SiGAS
-The code for "Siamese Generalizable-attention Instance Segmentation for Intersection Perception System" and RopeIns Dataset.
-Available for public after this article is published.
+The code for IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS(2024) paper "Si-GAIS: Siamese Generalizable-Attention Instance Segmentation for Intersection Perception System" and RopeIns Dataset.
+
 
  **Homologous / Heterologous** | **Params (M)** | **mAP (%)** | **AP_Car (%)** | **AP_BV (%)** | **AP_Ped (%)** | **AP_Cyc (%)** 
 :-----------------------------:|:--------------:|:-----------:|:--------------:|:-------------:|:--------------:|:--------------:
