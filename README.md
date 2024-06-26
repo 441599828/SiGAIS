@@ -17,7 +17,7 @@ trained model: https://pan.baidu.com/s/1Nx0jHZ-4ceDrWY4_q5aHIQ?pwd=ahn1
 If you find our work helpful for your research, please consider citing the following BibTeX entry.
 
 ```BibTeX
-@ARTICLE{Wang2024Sigais,
+@ARTICLE{wang2024sigais,
   author={Wang, Huanan and Zhang, Xinyu and Wang, Hong and Jun, Li},
   journal={IEEE Transactions on Intelligent Transportation Systems}, 
   title={Si-GAIS: Siamese Generalizable-Attention Instance Segmentation for Intersection Perception System}, 
