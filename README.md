@@ -18,13 +18,22 @@ trained model: https://pan.baidu.com/s/1Nx0jHZ-4ceDrWY4_q5aHIQ?pwd=ahn1
 If you use our dataset or code please cite:
 
 @ARTICLE{10559784,
+
   author={Wang, Huanan and Zhang, Xinyu and Wang, Hong and Jun, Li},
+  
   journal={IEEE Transactions on Intelligent Transportation Systems}, 
+  
   title={Si-GAIS: Siamese Generalizable-Attention Instance Segmentation for Intersection Perception System}, 
+  
   year={2024},
+  
   volume={},
+  
   number={},
+  
   pages={1-16},
+  
   keywords={Instance segmentation;Cameras;IP networks;Accuracy;Feature extraction;Task analysis;Laser radar;Artificial intelligence;attention mechanism;instance segmentation;intelligent transportation systems;intersection perception dataset},
+  
   doi={10.1109/TITS.2024.3411647}}
   
